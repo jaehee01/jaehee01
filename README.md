@@ -1,4 +1,4 @@
-## Hello!👋 I'm JaeHee LEE, a map developer🗺️ 
+## Hello!👋 I'm JaeHee LEE, a map contents developer🗺️ 
 
 <!--타이틀 부분-->
 <div align="center">
